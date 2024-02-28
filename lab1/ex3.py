@@ -1,0 +1,1 @@
+print(int(input("podaj liczbe nr1: ")) + int(input("podaj liczbe nr2: ")))
